@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi 👋
 
+🔭 I’m currently working on developing an advanced Generative AI model system.
 <!--
 **tharathep22/tharathep22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
