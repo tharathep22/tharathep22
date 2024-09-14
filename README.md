@@ -1,4 +1,4 @@
-# 👋 สวัสดีครับ My name is Tharathep. Welcome to my GitHub profile.
+# 👋 Hi,My name is Tharathep. Welcome to my GitHub profile.
 
 [![GitHub followers](https://img.shields.io/github/followers/tharathep22?label=Followers&style=social)](https://github.com/tharathep22?tab=followers)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Dul_Tharathep?style=social)](https://twitter.com/Dul_Tharathep)
