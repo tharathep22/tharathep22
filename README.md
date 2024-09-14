@@ -29,9 +29,9 @@
 - 🦾 Robotics: Motion Planning, Control Systems, Sensor Fusion
 
 ### 🏆 Latest AI and Robotics Projects
-- 🤖 [Your AI project name] - [Brief description]
-- 🧠 [Your Machine Learning project name] - [Brief description]
-- 🦾 [Your Robotics project name] - [Brief description]
+- 🤖 [Autonomous Golf Cart]
+- 🧠 [Autonomous digital humans]
+- 🦾 [Robotics Guard Dog]
 
 ### 📊 GitHub Stats
 
